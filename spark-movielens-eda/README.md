@@ -47,6 +47,18 @@ spark-movielens-eda/
 
 ---
 
+📊 Dataset Source: MovieLens
+
+This project uses the MovieLens Dataset from the GroupLens Research Project, University of Minnesota.
+MovieLens is a widely used benchmark dataset for data analysis, recommendation systems, and Spark experimentation.
+
+➡️ https://grouplens.org/datasets/movielens/100k/
+
+Click “ml-100k.zip”
+It’s only ~5 MB and perfect for local Spark/Kafka practice.
+
+---
+
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the Repository
